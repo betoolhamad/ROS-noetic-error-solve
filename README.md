@@ -1,7 +1,7 @@
 # ROS-noetic-error-solve
 The soulation of ROS noetic, which has an error when trying to run the robot arm package in Rviz. 
 
-To run robot arm pakage using command :
+To run robot arm package using command :
 
 ```
 $ roslaunch robot_arm_pkg check_motors.launch
